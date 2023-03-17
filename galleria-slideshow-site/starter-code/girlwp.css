@@ -1,0 +1,2355 @@
+@charset "UTF-8";
+@media screen and (max-width: 400px) {
+  header {
+    min-height: 10vh;
+    background-color: primecolor;
+    border-bottom: 1px solid #ccc;
+  }
+  header .Start_slideshow {
+    position: absolute;
+    margin-top: 28px;
+    margin-left: 80%;
+    font-weight: lighter;
+    font-size: 10px;
+  }
+  header .galleria {
+    position: absolute;
+    margin-top: 24px;
+    margin-left: 25px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .Starry-Night {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Starry-Night .deawingimg1 {
+    margin: 25px;
+  }
+  .Starry-Night .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -70px;
+    margin-left: 15px;
+  }
+  .Starry-Night .title h1 {
+    margin-left: 0px;
+  }
+  .Starry-Night .title h4 {
+    margin-left: 0px;
+    color: #7d7d7d;
+  }
+  .Starry-Night .deawingimg2 {
+    margin-top: 75px;
+    margin-left: 12px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Starry-Night .deawingimg2 img {
+    width: 80px;
+  }
+  .Starry-Night .number {
+    position: absolute;
+    font-size: 120px;
+    color: rgba(204, 204, 204, 0.7019607843);
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .Starry-Night .paragraph {
+    margin-top: 80px;
+  }
+  .footer {
+    max-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 80px;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .Girl-withaPearl-Earring {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Girl-withaPearl-Earring .deawingimg1 {
+    margin: 25px;
+  }
+  .Girl-withaPearl-Earring .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -70px;
+    margin-left: 15px;
+  }
+  .Girl-withaPearl-Earring .title h1 {
+    margin-left: 0px;
+    font-size: 40px;
+  }
+  .Girl-withaPearl-Earring .title h4 {
+    margin-left: 0px;
+    font-size: 20px;
+    color: #7d7d7d;
+  }
+  .Girl-withaPearl-Earring .deawingimg2 {
+    margin-top: 175px;
+    margin-left: 12px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Girl-withaPearl-Earring .deawingimg2 img {
+    width: 80px;
+  }
+  .Girl-withaPearl-Earring .number {
+    position: absolute;
+    font-size: 120px;
+    color: rgba(204, 204, 204, 0.4);
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .Girl-withaPearl-Earring .paragraph {
+    margin-top: 50px;
+  }
+  .footer {
+    max-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 80px;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .Guernica {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Guernica .deawingimg1 {
+    margin: 25px;
+  }
+  .Guernica .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -70px;
+    margin-left: 15px;
+  }
+  .Guernica .title h1 {
+    margin-left: 0px;
+    font-size: 40px;
+  }
+  .Guernica .title h4 {
+    margin-left: 0px;
+    font-size: 20px;
+    color: #7d7d7d;
+  }
+  .Guernica .deawingimg2 {
+    margin-top: 120px;
+    margin-left: 12px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Guernica .deawingimg2 img {
+    width: 80px;
+  }
+  .Guernica .number {
+    position: absolute;
+    font-size: 120px;
+    color: rgba(204, 204, 204, 0.4);
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .Guernica .paragraph {
+    margin-top: 50px;
+  }
+  .Penitent-Magdalene {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Penitent-Magdalene .deawingimg1 {
+    margin: 25px;
+  }
+  .Penitent-Magdalene .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -70px;
+    margin-left: 15px;
+  }
+  .Penitent-Magdalene .title h1 {
+    margin-left: 0px;
+    font-size: 40px;
+  }
+  .Penitent-Magdalene .title h4 {
+    margin-left: 0px;
+    font-size: 20px;
+    color: #7d7d7d;
+  }
+  .Penitent-Magdalene .deawingimg2 {
+    margin-top: 170px;
+    margin-left: 12px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Penitent-Magdalene .deawingimg2 img {
+    width: 80px;
+  }
+  .Penitent-Magdalene .number {
+    position: absolute;
+    font-size: 120px;
+    color: rgba(204, 204, 204, 0.4);
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .Penitent-Magdalene .paragraph {
+    margin-top: 50px;
+  }
+  .The-StormontheSeaof-Galilee {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .The-StormontheSeaof-Galilee .deawingimg1 {
+    margin: 25px;
+  }
+  .The-StormontheSeaof-Galilee .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -70px;
+    margin-left: 15px;
+  }
+  .The-StormontheSeaof-Galilee .title h1 {
+    margin-left: 0px;
+    font-size: 40px;
+  }
+  .The-StormontheSeaof-Galilee .title h4 {
+    margin-left: 0px;
+    font-size: 20px;
+    color: #7d7d7d;
+  }
+  .The-StormontheSeaof-Galilee .deawingimg2 {
+    margin-top: 220px;
+    margin-left: 12px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-StormontheSeaof-Galilee .deawingimg2 img {
+    width: 80px;
+  }
+  .The-StormontheSeaof-Galilee .number {
+    position: absolute;
+    font-size: 120px;
+    color: rgba(204, 204, 204, 0.4);
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .The-StormontheSeaof-Galilee .paragraph {
+    margin-top: 50px;
+  }
+  .The-GreatWaveoff-Kanagawa {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .The-GreatWaveoff-Kanagawa .deawingimg1 {
+    margin: 25px;
+  }
+  .The-GreatWaveoff-Kanagawa .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -70px;
+    margin-left: 15px;
+  }
+  .The-GreatWaveoff-Kanagawa .title h1 {
+    margin-left: 0px;
+    font-size: 40px;
+  }
+  .The-GreatWaveoff-Kanagawa .title h4 {
+    margin-left: 0px;
+    font-size: 20px;
+    color: #7d7d7d;
+  }
+  .The-GreatWaveoff-Kanagawa .deawingimg2 {
+    margin-top: 220px;
+    margin-left: 12px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-GreatWaveoff-Kanagawa .deawingimg2 img {
+    width: 80px;
+  }
+  .The-GreatWaveoff-Kanagawa .number {
+    position: absolute;
+    font-size: 120px;
+    color: rgba(204, 204, 204, 0.4);
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .The-GreatWaveoff-Kanagawa .paragraph {
+    margin-top: 50px;
+  }
+  .Van-GoghSelf-portrait {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Van-GoghSelf-portrait .deawingimg1 {
+    margin: 25px;
+  }
+  .Van-GoghSelf-portrait .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -70px;
+    margin-left: 15px;
+  }
+  .Van-GoghSelf-portrait .title h1 {
+    margin-left: 0px;
+    font-size: 40px;
+  }
+  .Van-GoghSelf-portrait .title h4 {
+    margin-left: 0px;
+    font-size: 20px;
+    color: #7d7d7d;
+  }
+  .Van-GoghSelf-portrait .deawingimg2 {
+    margin-top: 220px;
+    margin-left: 12px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Van-GoghSelf-portrait .deawingimg2 img {
+    width: 80px;
+  }
+  .Van-GoghSelf-portrait .number {
+    position: absolute;
+    font-size: 120px;
+    color: rgba(204, 204, 204, 0.4);
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .Van-GoghSelf-portrait .paragraph {
+    margin-top: 50px;
+  }
+  .The-Sleeping-Gypsy {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .The-Sleeping-Gypsy .deawingimg1 {
+    margin: 25px;
+  }
+  .The-Sleeping-Gypsy .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -70px;
+    margin-left: 15px;
+  }
+  .The-Sleeping-Gypsy .title h1 {
+    margin-left: 0px;
+    font-size: 40px;
+  }
+  .The-Sleeping-Gypsy .title h4 {
+    margin-left: 0px;
+    font-size: 20px;
+    color: #7d7d7d;
+  }
+  .The-Sleeping-Gypsy .deawingimg2 {
+    margin-top: 220px;
+    margin-left: 12px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Sleeping-Gypsy .deawingimg2 img {
+    width: 80px;
+  }
+  .The-Sleeping-Gypsy .number {
+    position: absolute;
+    font-size: 120px;
+    color: rgba(204, 204, 204, 0.4);
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .The-Sleeping-Gypsy .paragraph {
+    margin-top: 50px;
+  }
+  .Lady-withan-Ermine {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Lady-withan-Ermine .deawingimg1 {
+    margin: 25px;
+  }
+  .Lady-withan-Ermine .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -70px;
+    margin-left: 15px;
+  }
+  .Lady-withan-Ermine .title h1 {
+    margin-left: 0px;
+    font-size: 40px;
+  }
+  .Lady-withan-Ermine .title h4 {
+    margin-left: 0px;
+    font-size: 20px;
+    color: #7d7d7d;
+  }
+  .Lady-withan-Ermine .deawingimg2 {
+    margin-top: 160px;
+    margin-left: 12px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Lady-withan-Ermine .deawingimg2 img {
+    width: 80px;
+  }
+  .Lady-withan-Ermine .number {
+    position: absolute;
+    font-size: 120px;
+    color: rgba(204, 204, 204, 0.4);
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .Lady-withan-Ermine .paragraph {
+    margin-top: 50px;
+  }
+  .The-Night-Café {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .The-Night-Café .deawingimg1 {
+    margin: 25px;
+  }
+  .The-Night-Café .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -200px;
+    margin-left: 15px;
+  }
+  .The-Night-Café .title h1 {
+    margin-left: 0px;
+    font-size: 40px;
+  }
+  .The-Night-Café .title h4 {
+    margin-left: 0px;
+    font-size: 20px;
+    color: #7d7d7d;
+  }
+  .The-Night-Café .deawingimg2 {
+    margin-top: 160px;
+    margin-left: 12px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Night-Café .deawingimg2 img {
+    width: 80px;
+  }
+  .The-Night-Café .number {
+    position: absolute;
+    font-size: 120px;
+    color: rgba(204, 204, 204, 0.4);
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .The-Night-Café .paragraph {
+    margin-top: 50px;
+  }
+  .Mona-Lisa {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Mona-Lisa .deawingimg1 {
+    margin: 25px;
+  }
+  .Mona-Lisa .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -200px;
+    margin-left: 15px;
+  }
+  .Mona-Lisa .title h1 {
+    margin-left: 0px;
+    font-size: 40px;
+  }
+  .Mona-Lisa .title h4 {
+    margin-left: 0px;
+    font-size: 20px;
+    color: #7d7d7d;
+  }
+  .Mona-Lisa .deawingimg2 {
+    margin-top: 160px;
+    margin-left: 12px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Mona-Lisa .deawingimg2 img {
+    width: 80px;
+  }
+  .Mona-Lisa .number {
+    position: absolute;
+    font-size: 120px;
+    color: rgba(204, 204, 204, 0.4);
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .Mona-Lisa .paragraph {
+    margin-top: 50px;
+  }
+  .The-Basketof-Apples {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .The-Basketof-Apples .deawingimg1 {
+    margin: 25px;
+  }
+  .The-Basketof-Apples .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -100px;
+    margin-left: 15px;
+  }
+  .The-Basketof-Apples .title h1 {
+    margin-left: 0px;
+    font-size: 40px;
+  }
+  .The-Basketof-Apples .title h4 {
+    margin-left: 0px;
+    font-size: 20px;
+    color: #7d7d7d;
+  }
+  .The-Basketof-Apples .deawingimg2 {
+    margin-top: 160px;
+    margin-left: 12px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Basketof-Apples .deawingimg2 img {
+    width: 80px;
+  }
+  .The-Basketof-Apples .number {
+    position: absolute;
+    font-size: 120px;
+    color: rgba(204, 204, 204, 0.4);
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .The-Basketof-Apples .paragraph {
+    margin-top: 50px;
+  }
+  .The-BoyintheRed-Vest {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .The-BoyintheRed-Vest .deawingimg1 {
+    margin: 25px;
+  }
+  .The-BoyintheRed-Vest .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -80px;
+    margin-left: 15px;
+  }
+  .The-BoyintheRed-Vest .title h1 {
+    margin-left: 0px;
+    font-size: 40px;
+  }
+  .The-BoyintheRed-Vest .title h4 {
+    margin-left: 0px;
+    font-size: 20px;
+    color: #7d7d7d;
+  }
+  .The-BoyintheRed-Vest .deawingimg2 {
+    margin-top: 160px;
+    margin-left: 12px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-BoyintheRed-Vest .deawingimg2 img {
+    width: 80px;
+  }
+  .The-BoyintheRed-Vest .number {
+    position: absolute;
+    font-size: 120px;
+    color: rgba(204, 204, 204, 0.4);
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .The-BoyintheRed-Vest .paragraph {
+    margin-top: 50px;
+  }
+  .Arnolfini-Portrait {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Arnolfini-Portrait .deawingimg1 {
+    margin: 25px;
+  }
+  .Arnolfini-Portrait .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -80px;
+    margin-left: 15px;
+  }
+  .Arnolfini-Portrait .title h1 {
+    margin-left: 0px;
+    font-size: 40px;
+  }
+  .Arnolfini-Portrait .title h4 {
+    margin-left: 0px;
+    font-size: 20px;
+    color: #7d7d7d;
+  }
+  .Arnolfini-Portrait .deawingimg2 {
+    margin-top: 160px;
+    margin-left: 12px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Arnolfini-Portrait .deawingimg2 img {
+    width: 80px;
+  }
+  .Arnolfini-Portrait .number {
+    position: absolute;
+    font-size: 120px;
+    color: rgba(204, 204, 204, 0.4);
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .Arnolfini-Portrait .paragraph {
+    margin-top: 50px;
+  }
+  .The-Swing {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .The-Swing .deawingimg1 {
+    margin: 25px;
+  }
+  .The-Swing .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -80px;
+    margin-left: 15px;
+  }
+  .The-Swing .title h1 {
+    margin-left: 0px;
+    font-size: 40px;
+  }
+  .The-Swing .title h4 {
+    margin-left: 0px;
+    font-size: 20px;
+    color: #7d7d7d;
+  }
+  .The-Swing .deawingimg2 {
+    margin-top: 160px;
+    margin-left: 12px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Swing .deawingimg2 img {
+    width: 80px;
+  }
+  .The-Swing .number {
+    position: absolute;
+    font-size: 120px;
+    color: rgba(204, 204, 204, 0.4);
+    margin-top: -60px;
+    margin-left: 80px;
+  }
+  .The-Swing .paragraph {
+    margin-top: 50px;
+  }
+}
+@media screen and (min-width: 400px) and (max-width: 900px) {
+  header {
+    min-height: 10vh;
+    background-color: primecolor;
+    border-bottom: 1px solid #ccc;
+  }
+  header .Start_slideshow {
+    position: absolute;
+    margin-top: 28px;
+    margin-left: 80%;
+    font-weight: lighter;
+    font-size: 10px;
+  }
+  header .galleria {
+    position: absolute;
+    margin-top: 24px;
+    margin-left: 25px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .Starry-Night {
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Starry-Night .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Starry-Night .deawingimg1 img {
+    width: 600px;
+  }
+  .Starry-Night .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -490px;
+    margin-left: 345px;
+  }
+  .Starry-Night .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Starry-Night .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Starry-Night .deawingimg2 {
+    margin-top: -255px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Starry-Night .deawingimg2 img {
+    width: 80px;
+  }
+  .Starry-Night .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: 160px;
+    margin-left: 80px;
+  }
+  .Starry-Night .paragraph {
+    margin-top: 280px;
+    margin-left: 200px;
+  }
+  .footer {
+    max-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 80px;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .Girl-withaPearl-Earring {
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Girl-withaPearl-Earring .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Girl-withaPearl-Earring .deawingimg1 img {
+    width: 600px;
+  }
+  .Girl-withaPearl-Earring .title {
+    position: absolute;
+    width: 400px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -780px;
+    margin-left: 345px;
+  }
+  .Girl-withaPearl-Earring .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Girl-withaPearl-Earring .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Girl-withaPearl-Earring .deawingimg2 {
+    margin-top: -500px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Girl-withaPearl-Earring .deawingimg2 img {
+    width: 80px;
+  }
+  .Girl-withaPearl-Earring .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: 360px;
+    margin-left: 80px;
+  }
+  .Girl-withaPearl-Earring .paragraph {
+    margin-top: 480px;
+    margin-left: 200px;
+  }
+  .Guernica {
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Guernica .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Guernica .deawingimg1 img {
+    width: 600px;
+  }
+  .Guernica .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -570px;
+    margin-left: 345px;
+  }
+  .Guernica .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Guernica .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Guernica .deawingimg2 {
+    margin-top: -400px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Guernica .deawingimg2 img {
+    width: 80px;
+  }
+  .Guernica .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: 260px;
+    margin-left: 80px;
+  }
+  .Guernica .paragraph {
+    margin-top: 380px;
+    margin-left: 200px;
+  }
+  .Penitent-Magdalene {
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Penitent-Magdalene .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Penitent-Magdalene .deawingimg1 img {
+    width: 600px;
+  }
+  .Penitent-Magdalene .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -490px;
+    margin-left: 345px;
+  }
+  .Penitent-Magdalene .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Penitent-Magdalene .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Penitent-Magdalene .deawingimg2 {
+    margin-top: -255px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Penitent-Magdalene .deawingimg2 img {
+    width: 80px;
+  }
+  .Penitent-Magdalene .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: 160px;
+    margin-left: 80px;
+  }
+  .Penitent-Magdalene .paragraph {
+    margin-top: 280px;
+    margin-left: 200px;
+  }
+  .The-StormontheSeaof-Galilee {
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .The-StormontheSeaof-Galilee .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-StormontheSeaof-Galilee .deawingimg1 img {
+    width: 600px;
+  }
+  .The-StormontheSeaof-Galilee .title {
+    position: absolute;
+    width: 400px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -660px;
+    margin-left: 345px;
+  }
+  .The-StormontheSeaof-Galilee .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .The-StormontheSeaof-Galilee .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .The-StormontheSeaof-Galilee .deawingimg2 {
+    margin-top: -365px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-StormontheSeaof-Galilee .deawingimg2 img {
+    width: 80px;
+  }
+  .The-StormontheSeaof-Galilee .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: 240px;
+    margin-left: 80px;
+  }
+  .The-StormontheSeaof-Galilee .paragraph {
+    margin-top: 380px;
+    margin-left: 200px;
+  }
+  .The-GreatWaveoff-Kanagawa {
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .The-GreatWaveoff-Kanagawa .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-GreatWaveoff-Kanagawa .deawingimg1 img {
+    width: 600px;
+  }
+  .The-GreatWaveoff-Kanagawa .title {
+    position: absolute;
+    width: 400px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -550px;
+    margin-left: 345px;
+  }
+  .The-GreatWaveoff-Kanagawa .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .The-GreatWaveoff-Kanagawa .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .The-GreatWaveoff-Kanagawa .deawingimg2 {
+    margin-top: -255px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-GreatWaveoff-Kanagawa .deawingimg2 img {
+    width: 80px;
+  }
+  .The-GreatWaveoff-Kanagawa .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: 160px;
+    margin-left: 80px;
+  }
+  .The-GreatWaveoff-Kanagawa .paragraph {
+    margin-top: 280px;
+    margin-left: 200px;
+  }
+  .Van-GoghSelf-portrait {
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Van-GoghSelf-portrait .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Van-GoghSelf-portrait .deawingimg1 img {
+    width: 600px;
+  }
+  .Van-GoghSelf-portrait .title {
+    position: absolute;
+    width: 450px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -950px;
+    margin-left: 345px;
+  }
+  .Van-GoghSelf-portrait .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Van-GoghSelf-portrait .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Van-GoghSelf-portrait .deawingimg2 {
+    margin-top: -720px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Van-GoghSelf-portrait .deawingimg2 img {
+    width: 80px;
+  }
+  .Van-GoghSelf-portrait .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: 580px;
+    margin-left: 80px;
+  }
+  .Van-GoghSelf-portrait .paragraph {
+    margin-top: 720px;
+    margin-left: 200px;
+  }
+  .The-Sleeping-Gypsy {
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .The-Sleeping-Gypsy .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Sleeping-Gypsy .deawingimg1 img {
+    width: 600px;
+  }
+  .The-Sleeping-Gypsy .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -490px;
+    margin-left: 345px;
+  }
+  .The-Sleeping-Gypsy .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .The-Sleeping-Gypsy .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .The-Sleeping-Gypsy .deawingimg2 {
+    margin-top: -203px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Sleeping-Gypsy .deawingimg2 img {
+    width: 80px;
+  }
+  .The-Sleeping-Gypsy .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: 160px;
+    margin-left: 80px;
+  }
+  .The-Sleeping-Gypsy .paragraph {
+    margin-top: 280px;
+    margin-left: 200px;
+  }
+  .Lady-withan-Ermine {
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Lady-withan-Ermine .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Lady-withan-Ermine .deawingimg1 img {
+    width: 600px;
+  }
+  .Lady-withan-Ermine .title {
+    position: absolute;
+    width: 500px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -800px;
+    margin-left: 345px;
+  }
+  .Lady-withan-Ermine .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Lady-withan-Ermine .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Lady-withan-Ermine .deawingimg2 {
+    margin-top: -565px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Lady-withan-Ermine .deawingimg2 img {
+    width: 80px;
+  }
+  .Lady-withan-Ermine .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: 420px;
+    margin-left: 80px;
+  }
+  .Lady-withan-Ermine .paragraph {
+    margin-top: 560px;
+    margin-left: 200px;
+  }
+  .The-Night-Café {
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .The-Night-Café .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Night-Café .deawingimg1 img {
+    width: 600px;
+  }
+  .The-Night-Café .title {
+    position: absolute;
+    width: 400px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -270px;
+    margin-left: 345px;
+  }
+  .The-Night-Café .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .The-Night-Café .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .The-Night-Café .deawingimg2 {
+    margin-top: -250px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Night-Café .deawingimg2 img {
+    width: 80px;
+  }
+  .The-Night-Café .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: 160px;
+    margin-left: 80px;
+  }
+  .The-Night-Café .paragraph {
+    margin-top: 280px;
+    margin-left: 200px;
+  }
+  .Mona-Lisa {
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Mona-Lisa .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Mona-Lisa .deawingimg1 img {
+    width: 600px;
+  }
+  .Mona-Lisa .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -20px;
+    margin-left: 345px;
+  }
+  .Mona-Lisa .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Mona-Lisa .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Mona-Lisa .deawingimg2 {
+    margin-top: -775px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Mona-Lisa .deawingimg2 img {
+    width: 80px;
+  }
+  .Mona-Lisa .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: 640px;
+    margin-left: 80px;
+  }
+  .Mona-Lisa .paragraph {
+    margin-top: 780px;
+    margin-left: 200px;
+  }
+  .The-Basketof-Apples {
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .The-Basketof-Apples .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Basketof-Apples .deawingimg1 img {
+    width: 600px;
+  }
+  .The-Basketof-Apples .title {
+    position: absolute;
+    width: 400px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -840px;
+    margin-left: 345px;
+  }
+  .The-Basketof-Apples .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .The-Basketof-Apples .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .The-Basketof-Apples .deawingimg2 {
+    margin-top: -605px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Basketof-Apples .deawingimg2 img {
+    width: 80px;
+  }
+  .The-Basketof-Apples .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: 510px;
+    margin-left: 80px;
+  }
+  .The-Basketof-Apples .paragraph {
+    margin-top: 620px;
+    margin-left: 200px;
+  }
+  .The-BoyintheRed-Vest {
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .The-BoyintheRed-Vest .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-BoyintheRed-Vest .deawingimg1 img {
+    width: 600px;
+  }
+  .The-BoyintheRed-Vest .title {
+    position: absolute;
+    width: 500px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -520px;
+    margin-left: 345px;
+  }
+  .The-BoyintheRed-Vest .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .The-BoyintheRed-Vest .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .The-BoyintheRed-Vest .deawingimg2 {
+    margin-top: -300px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-BoyintheRed-Vest .deawingimg2 img {
+    width: 80px;
+  }
+  .The-BoyintheRed-Vest .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: 180px;
+    margin-left: 80px;
+  }
+  .The-BoyintheRed-Vest .paragraph {
+    margin-top: 300px;
+    margin-left: 200px;
+  }
+  .Arnolfini-Portrait {
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .Arnolfini-Portrait .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Arnolfini-Portrait .deawingimg1 img {
+    width: 600px;
+  }
+  .Arnolfini-Portrait .title {
+    position: absolute;
+    width: 500px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -650px;
+    margin-left: 345px;
+  }
+  .Arnolfini-Portrait .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Arnolfini-Portrait .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Arnolfini-Portrait .deawingimg2 {
+    margin-top: -415px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Arnolfini-Portrait .deawingimg2 img {
+    width: 80px;
+  }
+  .Arnolfini-Portrait .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: 280px;
+    margin-left: 80px;
+  }
+  .Arnolfini-Portrait .paragraph {
+    margin-top: 420px;
+    margin-left: 200px;
+  }
+  .The-Swing {
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .The-Swing .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Swing .deawingimg1 img {
+    width: 600px;
+  }
+  .The-Swing .title {
+    position: absolute;
+    width: 500px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -660px;
+    margin-left: 345px;
+  }
+  .The-Swing .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .The-Swing .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .The-Swing .deawingimg2 {
+    margin-top: -500px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Swing .deawingimg2 img {
+    width: 80px;
+  }
+  .The-Swing .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: 420px;
+    margin-left: 80px;
+  }
+  .The-Swing .paragraph {
+    margin-top: 560px;
+    margin-left: 200px;
+  }
+}
+@media screen and (min-width: 900px) {
+  header {
+    min-height: 10vh;
+    background-color: primecolor;
+    border-bottom: 1px solid #ccc;
+  }
+  header .Start_slideshow {
+    position: absolute;
+    margin-top: 28px;
+    margin-left: 80%;
+    font-weight: lighter;
+    font-size: 30px;
+  }
+  header .galleria {
+    position: absolute;
+    margin-top: 24px;
+    margin-left: 25px;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  .Starry-Night {
+    margin-left: 50px;
+    font-family: sans-serif;
+  }
+  .Starry-Night .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Starry-Night .deawingimg1 img {
+    width: 600px;
+  }
+  .Starry-Night .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -490px;
+    margin-left: 545px;
+  }
+  .Starry-Night .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Starry-Night .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Starry-Night .deawingimg2 {
+    margin-top: -100px;
+    margin-left: 662px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Starry-Night .deawingimg2 img {
+    width: 80px;
+  }
+  .Starry-Night .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: -460px;
+    margin-left: 880px;
+  }
+  .Starry-Night .paragraph {
+    margin-top: -320px;
+    margin-left: 880px;
+  }
+  .footer {
+    max-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 10%;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .Girl-withaPearl-Earring {
+    margin-left: 50px;
+    font-family: sans-serif;
+  }
+  .Girl-withaPearl-Earring .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .Girl-withaPearl-Earring .deawingimg1 img {
+    width: 400px;
+    height: 600px;
+  }
+  .Girl-withaPearl-Earring .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -640px;
+    margin-left: 345px;
+  }
+  .Girl-withaPearl-Earring .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Girl-withaPearl-Earring .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Girl-withaPearl-Earring .deawingimg2 {
+    margin-top: -70px;
+    margin-left: 462px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Girl-withaPearl-Earring .deawingimg2 img {
+    width: 80px;
+  }
+  .Girl-withaPearl-Earring .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: -590px;
+    margin-left: 880px;
+  }
+  .Girl-withaPearl-Earring .paragraph {
+    margin-top: -470px;
+    margin-left: 880px;
+  }
+  .footer {
+    max-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 10%;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .Guernica {
+    margin-left: 50px;
+    font-family: sans-serif;
+  }
+  .Guernica .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .Guernica .deawingimg1 img {
+    width: 400px;
+    height: 600px;
+  }
+  .Guernica .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -640px;
+    margin-left: 345px;
+  }
+  .Guernica .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Guernica .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Guernica .deawingimg2 {
+    margin-top: -70px;
+    margin-left: 462px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Guernica .deawingimg2 img {
+    width: 80px;
+  }
+  .Guernica .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: -590px;
+    margin-left: 680px;
+  }
+  .Guernica .paragraph {
+    margin-top: -470px;
+    margin-left: 680px;
+  }
+  .footer {
+    max-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 25%;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .Penitent-Magdalene {
+    margin-left: 50px;
+    font-family: sans-serif;
+  }
+  .Penitent-Magdalene .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .Penitent-Magdalene .deawingimg1 img {
+    width: 400px;
+    height: 600px;
+  }
+  .Penitent-Magdalene .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -640px;
+    margin-left: 345px;
+  }
+  .Penitent-Magdalene .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Penitent-Magdalene .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Penitent-Magdalene .deawingimg2 {
+    margin-top: -70px;
+    margin-left: 462px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Penitent-Magdalene .deawingimg2 img {
+    width: 80px;
+  }
+  .Penitent-Magdalene .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: -590px;
+    margin-left: 880px;
+  }
+  .Penitent-Magdalene .paragraph {
+    margin-top: -470px;
+    margin-left: 880px;
+  }
+  .footer {
+    max-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 25%;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .The-StormontheSeaof-Galilee {
+    margin-left: 50px;
+    font-family: sans-serif;
+  }
+  .The-StormontheSeaof-Galilee .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .The-StormontheSeaof-Galilee .deawingimg1 img {
+    width: 400px;
+    height: 600px;
+  }
+  .The-StormontheSeaof-Galilee .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -640px;
+    margin-left: 345px;
+  }
+  .The-StormontheSeaof-Galilee .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .The-StormontheSeaof-Galilee .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .The-StormontheSeaof-Galilee .deawingimg2 {
+    margin-top: -70px;
+    margin-left: 462px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-StormontheSeaof-Galilee .deawingimg2 img {
+    width: 80px;
+  }
+  .The-StormontheSeaof-Galilee .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: -590px;
+    margin-left: 880px;
+  }
+  .The-StormontheSeaof-Galilee .paragraph {
+    margin-top: -470px;
+    margin-left: 880px;
+  }
+  .footer {
+    max-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 25%;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .The-GreatWaveoff-Kanagawa {
+    margin-left: 50px;
+    font-family: sans-serif;
+  }
+  .The-GreatWaveoff-Kanagawa .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .The-GreatWaveoff-Kanagawa .deawingimg1 img {
+    width: 400px;
+    height: 600px;
+  }
+  .The-GreatWaveoff-Kanagawa .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -640px;
+    margin-left: 345px;
+  }
+  .The-GreatWaveoff-Kanagawa .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .The-GreatWaveoff-Kanagawa .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .The-GreatWaveoff-Kanagawa .deawingimg2 {
+    margin-top: -70px;
+    margin-left: 462px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-GreatWaveoff-Kanagawa .deawingimg2 img {
+    width: 80px;
+  }
+  .The-GreatWaveoff-Kanagawa .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: -590px;
+    margin-left: 880px;
+  }
+  .The-GreatWaveoff-Kanagawa .paragraph {
+    margin-top: -470px;
+    margin-left: 880px;
+  }
+  .The-GreatWaveoff-Kanagawa .footer {
+    max-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 25%;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .Van-GoghSelf-portrait {
+    margin-left: 50px;
+    font-family: sans-serif;
+  }
+  .Van-GoghSelf-portrait .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .Van-GoghSelf-portrait .deawingimg1 img {
+    width: 400px;
+    height: 600px;
+  }
+  .Van-GoghSelf-portrait .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -640px;
+    margin-left: 345px;
+  }
+  .Van-GoghSelf-portrait .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Van-GoghSelf-portrait .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Van-GoghSelf-portrait .deawingimg2 {
+    margin-top: -70px;
+    margin-left: 462px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Van-GoghSelf-portrait .deawingimg2 img {
+    width: 80px;
+  }
+  .Van-GoghSelf-portrait .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: -590px;
+    margin-left: 880px;
+  }
+  .Van-GoghSelf-portrait .paragraph {
+    margin-top: -470px;
+    margin-left: 880px;
+  }
+  .Van-GoghSelf-portrait .footer {
+    min-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 25%;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .The-Sleeping-Gypsy {
+    margin-left: 50px;
+    font-family: sans-serif;
+  }
+  .The-Sleeping-Gypsy .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .The-Sleeping-Gypsy .deawingimg1 img {
+    width: 400px;
+    height: 600px;
+  }
+  .The-Sleeping-Gypsy .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -640px;
+    margin-left: 345px;
+  }
+  .The-Sleeping-Gypsy .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .The-Sleeping-Gypsy .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .The-Sleeping-Gypsy .deawingimg2 {
+    margin-top: -70px;
+    margin-left: 462px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Sleeping-Gypsy .deawingimg2 img {
+    width: 80px;
+  }
+  .The-Sleeping-Gypsy .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: -590px;
+    margin-left: 880px;
+  }
+  .The-Sleeping-Gypsy .paragraph {
+    margin-top: -470px;
+    margin-left: 880px;
+  }
+  .footer {
+    min-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 25%;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .Lady-withan-Ermine {
+    margin-left: 50px;
+    font-family: sans-serif;
+  }
+  .Lady-withan-Ermine .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .Lady-withan-Ermine .deawingimg1 img {
+    width: 400px;
+    height: 600px;
+  }
+  .Lady-withan-Ermine .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -640px;
+    margin-left: 345px;
+  }
+  .Lady-withan-Ermine .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Lady-withan-Ermine .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Lady-withan-Ermine .deawingimg2 {
+    margin-top: -70px;
+    margin-left: 462px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Lady-withan-Ermine .deawingimg2 img {
+    width: 80px;
+  }
+  .Lady-withan-Ermine .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: -590px;
+    margin-left: 880px;
+  }
+  .Lady-withan-Ermine .paragraph {
+    margin-top: -470px;
+    margin-left: 880px;
+  }
+  .The-Night-Café {
+    margin-left: 50px;
+    font-family: sans-serif;
+  }
+  .The-Night-Café .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .The-Night-Café .deawingimg1 img {
+    width: 400px;
+    height: 500px;
+  }
+  .The-Night-Café .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -480px;
+    margin-left: 345px;
+  }
+  .The-Night-Café .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .The-Night-Café .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .The-Night-Café .deawingimg2 {
+    margin-top: -70px;
+    margin-left: 462px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Night-Café .deawingimg2 img {
+    width: 80px;
+  }
+  .The-Night-Café .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: -570px;
+    margin-left: 780px;
+  }
+  .The-Night-Café .paragraph {
+    margin-top: -440px;
+    margin-left: 780px;
+  }
+  .footer {
+    min-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 10%;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .Mona-Lisa {
+    margin-left: 50px;
+    font-family: sans-serif;
+  }
+  .Mona-Lisa .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .Mona-Lisa .deawingimg1 img {
+    width: 400px;
+    height: 500px;
+  }
+  .Mona-Lisa .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -20px;
+    margin-left: 345px;
+  }
+  .Mona-Lisa .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Mona-Lisa .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Mona-Lisa .deawingimg2 {
+    margin-top: -70px;
+    margin-left: 462px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Mona-Lisa .deawingimg2 img {
+    width: 80px;
+  }
+  .Mona-Lisa .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: -570px;
+    margin-left: 780px;
+  }
+  .Mona-Lisa .paragraph {
+    margin-top: -440px;
+    margin-left: 780px;
+  }
+  .Mona-Lisa .footer {
+    min-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 10%;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .The-Basketof-Apples {
+    margin-left: 50px;
+    font-family: sans-serif;
+  }
+  .The-Basketof-Apples .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .The-Basketof-Apples .deawingimg1 img {
+    width: 400px;
+    height: 500px;
+  }
+  .The-Basketof-Apples .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -540px;
+    margin-left: 345px;
+  }
+  .The-Basketof-Apples .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .The-Basketof-Apples .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .The-Basketof-Apples .deawingimg2 {
+    margin-top: -70px;
+    margin-left: 462px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Basketof-Apples .deawingimg2 img {
+    width: 80px;
+  }
+  .The-Basketof-Apples .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: -570px;
+    margin-left: 780px;
+  }
+  .The-Basketof-Apples .paragraph {
+    margin-top: -440px;
+    margin-left: 780px;
+  }
+  .footer {
+    min-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 15%;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .The-BoyintheRed-Vest {
+    margin-left: 50px;
+    font-family: sans-serif;
+  }
+  .The-BoyintheRed-Vest .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .The-BoyintheRed-Vest .deawingimg1 img {
+    width: 400px;
+    height: 500px;
+  }
+  .The-BoyintheRed-Vest .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -540px;
+    margin-left: 345px;
+  }
+  .The-BoyintheRed-Vest .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .The-BoyintheRed-Vest .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .The-BoyintheRed-Vest .deawingimg2 {
+    margin-top: -70px;
+    margin-left: 462px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-BoyintheRed-Vest .deawingimg2 img {
+    width: 80px;
+  }
+  .The-BoyintheRed-Vest .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: -570px;
+    margin-left: 780px;
+  }
+  .The-BoyintheRed-Vest .paragraph {
+    margin-top: -440px;
+    margin-left: 780px;
+  }
+  .footer {
+    min-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 25%;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .Arnolfini-Portrait {
+    margin-left: 50px;
+    font-family: sans-serif;
+  }
+  .Arnolfini-Portrait .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .Arnolfini-Portrait .deawingimg1 img {
+    width: 400px;
+    height: 500px;
+  }
+  .Arnolfini-Portrait .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -540px;
+    margin-left: 345px;
+  }
+  .Arnolfini-Portrait .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .Arnolfini-Portrait .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .Arnolfini-Portrait .deawingimg2 {
+    margin-top: -70px;
+    margin-left: 462px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .Arnolfini-Portrait .deawingimg2 img {
+    width: 80px;
+  }
+  .Arnolfini-Portrait .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: -570px;
+    margin-left: 780px;
+  }
+  .Arnolfini-Portrait .paragraph {
+    margin-top: -440px;
+    margin-left: 780px;
+  }
+  .footer {
+    min-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 15%;
+    padding-left: 30px;
+    position: absolute;
+  }
+  .The-Swing {
+    margin-left: 50px;
+    font-family: sans-serif;
+  }
+  .The-Swing .deawingimg1 {
+    margin: 25px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .The-Swing .deawingimg1 img {
+    width: 400px;
+    height: 500px;
+  }
+  .The-Swing .title {
+    position: absolute;
+    width: 300px;
+    height: -moz-fit-content;
+    height: fit-content;
+    background-color: white;
+    margin-top: -540px;
+    margin-left: 345px;
+  }
+  .The-Swing .title h1 {
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .The-Swing .title h4 {
+    margin-left: 60px;
+    color: #7d7d7d;
+  }
+  .The-Swing .deawingimg2 {
+    margin-top: -70px;
+    margin-left: 462px;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .The-Swing .deawingimg2 img {
+    width: 80px;
+  }
+  .The-Swing .number {
+    position: absolute;
+    font-size: 150px;
+    color: rgba(204, 204, 204, 0.4784313725);
+    margin-top: -570px;
+    margin-left: 780px;
+  }
+  .The-Swing .paragraph {
+    margin-top: -440px;
+    margin-left: 780px;
+  }
+  .footer {
+    min-height: 10vh;
+    background-color: primecolor;
+    border-top: 1px solid #19191a;
+    margin-top: 25%;
+    padding-left: 30px;
+    position: absolute;
+  }
+}/*# sourceMappingURL=girlwp.css.map */

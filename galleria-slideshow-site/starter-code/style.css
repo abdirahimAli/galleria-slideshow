@@ -1,0 +1,1025 @@
+@charset "UTF-8";
+img {
+  max-width: 100%;
+  max-height: 100%;
+  -o-object-fit: fill;
+     object-fit: fill;
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    margin: 20%;
+    margin-top: 25px;
+  }
+  .container h2 {
+    position: absolute;
+    font-size: smaller;
+    font-size: 1px;
+  }
+  .container h4 {
+    position: absolute;
+    color: blue;
+  }
+  .container .starry_night h2 {
+    color: #ffffff;
+    font-size: 12px;
+    margin-top: 120px;
+    margin-left: 40px;
+  }
+  .container .starry_night h4 {
+    color: #7d7d7d;
+    font-size: 5px;
+    margin-top: 140px;
+    margin-left: 40px;
+  }
+  .container .GirlwithaPearlEarring {
+    margin-top: 20px;
+  }
+  .container .GirlwithaPearlEarring h2 {
+    color: #ffffff;
+    font-size: 12px;
+    margin-top: 260px;
+    margin-left: 40px;
+  }
+  .container .GirlwithaPearlEarring h4 {
+    color: #7d7d7d;
+    font-size: 5px;
+    margin-top: 290px;
+    margin-left: 40px;
+  }
+  .container .Guernica {
+    margin-top: 20px;
+  }
+  .container .Guernica h2 {
+    color: #ffffff;
+    font-size: 12px;
+    margin-top: 95px;
+    margin-left: 40px;
+  }
+  .container .Guernica h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 105px;
+    margin-left: 40px;
+  }
+  .container .PenitentMagdalene {
+    margin-top: 20px;
+  }
+  .container .PenitentMagdalene h2 {
+    color: #ffffff;
+    font-size: 12px;
+    margin-top: 190px;
+    margin-left: 40px;
+  }
+  .container .PenitentMagdalene h4 {
+    color: #7d7d7d;
+    font-size: 5px;
+    font-weight: lighter;
+    margin-top: 220px;
+    margin-left: 40px;
+  }
+  .container .TheStormontheSeaofGalilee {
+    margin-top: 20px;
+  }
+  .container .TheStormontheSeaofGalilee h2 {
+    color: #ffffff;
+    font-size: 12px;
+    margin-top: 190px;
+    margin-left: 40px;
+  }
+  .container .TheStormontheSeaofGalilee h4 {
+    color: #7d7d7d;
+    font-size: 5px;
+    margin-top: 220px;
+    margin-left: 40px;
+  }
+  .container .TheGreatWaveoffKanagawa {
+    margin-top: 20px;
+  }
+  .container .TheGreatWaveoffKanagawa h2 {
+    color: #0e0e0e;
+    font-size: 12px;
+    margin-top: 130px;
+    margin-left: 40px;
+  }
+  .container .TheGreatWaveoffKanagawa h4 {
+    color: #7d7d7d;
+    font-size: 5px;
+    margin-top: 160px;
+    margin-left: 40px;
+  }
+  .container .VanGoghSelf-portrait {
+    margin-top: 20px;
+  }
+  .container .VanGoghSelf-portrait h2 {
+    color: #ffffff;
+    font-size: 12px;
+    margin-top: 220px;
+    margin-left: 40px;
+  }
+  .container .VanGoghSelf-portrait h4 {
+    color: #7d7d7d;
+    font-size: 5px;
+    margin-top: 235px;
+    margin-left: 40px;
+  }
+  .container .TheSleepingGypsy {
+    margin-top: 20px;
+  }
+  .container .TheSleepingGypsy h2 {
+    color: #ffffff;
+    font-size: 12px;
+    margin-top: 100px;
+    margin-left: 40px;
+  }
+  .container .TheSleepingGypsy h4 {
+    color: #7d7d7d;
+    font-size: 5px;
+    margin-top: 110px;
+    margin-left: 40px;
+  }
+  .container .LadywithanErmine {
+    margin-top: 20px;
+  }
+  .container .LadywithanErmine h2 {
+    color: #ffffff;
+    font-size: 12px;
+    margin-top: 230px;
+    margin-left: 40px;
+  }
+  .container .LadywithanErmine h4 {
+    color: #7d7d7d;
+    font-size: 5px;
+    margin-top: 250px;
+    margin-left: 40px;
+  }
+  .container .TheNightCafé {
+    margin-top: 20px;
+  }
+  .container .TheNightCafé h2 {
+    color: #ffffff;
+    font-size: 12px;
+    margin-top: 110px;
+    margin-left: 40px;
+  }
+  .container .TheNightCafé h4 {
+    color: #7d7d7d;
+    font-size: 5px;
+    margin-top: 130px;
+    margin-left: 40px;
+  }
+  .container .TheBasketofApples {
+    margin-top: 20px;
+  }
+  .container .TheBasketofApples h2 {
+    color: #ffffff;
+    font-size: 12px;
+    margin-top: 140px;
+    margin-left: 40px;
+  }
+  .container .TheBasketofApples h4 {
+    color: #7d7d7d;
+    font-size: 5px;
+    margin-top: 160px;
+    margin-left: 40px;
+  }
+  .container .TheBoyintheRedVest {
+    margin-top: 20px;
+  }
+  .container .TheBoyintheRedVest h2 {
+    color: #ffffff;
+    font-size: 12px;
+    margin-top: 200px;
+    margin-left: 40px;
+  }
+  .container .TheBoyintheRedVest h4 {
+    color: #7d7d7d;
+    font-size: 5px;
+    margin-top: 220px;
+    margin-left: 40px;
+  }
+  .container .ArnolfiniPortrait {
+    margin-top: 20px;
+  }
+  .container .ArnolfiniPortrait h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 250px;
+    margin-left: 40px;
+  }
+  .container .ArnolfiniPortrait h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 280px;
+    margin-left: 40px;
+  }
+  .container .MonaLisa {
+    margin-top: 20px;
+  }
+  .container .MonaLisa h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 250px;
+    margin-left: 40px;
+  }
+  .container .MonaLisa h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 280px;
+    margin-left: 40px;
+  }
+  .container .TheSwing {
+    margin-top: 20px;
+  }
+  .container .TheSwing h2 {
+    color: #ffffff;
+    font-size: 12px;
+    margin-top: 230px;
+    margin-left: 40px;
+  }
+  .container .TheSwing h4 {
+    color: #7d7d7d;
+    font-size: 5px;
+    margin-top: 250px;
+    margin-left: 40px;
+  }
+  header {
+    min-height: 10vh;
+    background-color: primecolor;
+    border-bottom: 1px solid #ccc;
+    font-size: smaller;
+  }
+  header .Start_slideshow {
+    padding-top: 4px;
+    margin-left: 30%;
+    font-weight: lighter;
+    font-size: 20px;
+  }
+  header .galleria {
+    padding-top: 4px;
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: 30px;
+  }
+}
+@media screen and (max-width: 900px) and (min-width: 600px) {
+  .container {
+    margin-left: 15px;
+    display: grid;
+    grid-template-columns: 324px 424px;
+    -moz-column-gap: 40px;
+         column-gap: 40px;
+    row-gap: 10px;
+  }
+  .container h2 {
+    position: absolute;
+    font-size: smaller;
+  }
+  .container h4 {
+    position: absolute;
+    color: blue;
+  }
+  .container .starry_night {
+    margin-top: 40px;
+  }
+  .container .starry_night h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 150px;
+    margin-left: 40px;
+  }
+  .container .starry_night h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 170px;
+    margin-left: 40px;
+  }
+  .container .GirlwithaPearlEarring {
+    margin-top: 40px;
+  }
+  .container .GirlwithaPearlEarring h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 380px;
+    margin-left: 40px;
+  }
+  .container .GirlwithaPearlEarring h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 430px;
+    margin-left: 40px;
+  }
+  .container .Guernica {
+    margin-top: -300px;
+  }
+  .container .Guernica h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 130px;
+    margin-left: 40px;
+  }
+  .container .Guernica h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 150px;
+    margin-left: 40px;
+  }
+  .container .PenitentMagdalene {
+    margin-top: 20px;
+  }
+  .container .PenitentMagdalene h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 130px;
+    margin-left: 40px;
+  }
+  .container .PenitentMagdalene h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 150px;
+    margin-left: 40px;
+  }
+  .container .TheStormontheSeaofGalilee {
+    margin-top: -640px;
+  }
+  .container .TheStormontheSeaofGalilee h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 130px;
+    margin-left: 40px;
+  }
+  .container .TheStormontheSeaofGalilee h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 150px;
+    margin-left: 40px;
+  }
+  .container .TheGreatWaveoffKanagawa {
+    margin-top: 20px;
+  }
+  .container .TheGreatWaveoffKanagawa h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 130px;
+    margin-left: 40px;
+  }
+  .container .TheGreatWaveoffKanagawa h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 150px;
+    margin-left: 40px;
+  }
+  .container .VanGoghSelf-portrait {
+    margin-top: -620px;
+  }
+  .container .VanGoghSelf-portrait h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 130px;
+    margin-left: 40px;
+  }
+  .container .VanGoghSelf-portrait h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 150px;
+    margin-left: 40px;
+  }
+  .container .TheSleepingGypsy {
+    margin-top: 20px;
+  }
+  .container .TheSleepingGypsy h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 130px;
+    margin-left: 40px;
+  }
+  .container .TheSleepingGypsy h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 150px;
+    margin-left: 40px;
+  }
+  .container .LadywithanErmine {
+    margin-top: -500px;
+  }
+  .container .LadywithanErmine h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 130px;
+    margin-left: 40px;
+  }
+  .container .LadywithanErmine h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 150px;
+    margin-left: 40px;
+  }
+  .container .TheNightCafé {
+    margin-top: 20px;
+  }
+  .container .TheNightCafé h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 130px;
+    margin-left: 40px;
+  }
+  .container .TheNightCafé h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 150px;
+    margin-left: 40px;
+  }
+  .container .TheBasketofApples {
+    margin-top: 20px;
+  }
+  .container .TheBasketofApples h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 130px;
+    margin-left: 40px;
+  }
+  .container .TheBasketofApples h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 150px;
+    margin-left: 40px;
+  }
+  .container .TheBoyintheRedVest {
+    margin-top: -260px;
+  }
+  .container .TheBoyintheRedVest h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 130px;
+    margin-left: 40px;
+  }
+  .container .TheBoyintheRedVest h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 150px;
+    margin-left: 40px;
+  }
+  .container .ArnolfiniPortrait {
+    margin-top: 20px;
+  }
+  .container .ArnolfiniPortrait h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 130px;
+    margin-left: 40px;
+  }
+  .container .ArnolfiniPortrait h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 150px;
+    margin-left: 40px;
+  }
+  .container .MonaLisa {
+    margin-top: -380px;
+  }
+  .container .MonaLisa h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 130px;
+    margin-left: 40px;
+  }
+  .container .MonaLisa h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 150px;
+    margin-left: 40px;
+  }
+  .container .TheSwing {
+    margin-top: -460px;
+    max-height: 440px;
+    background-color: aqua;
+  }
+  .container .TheSwing .image_container {
+    max-height: 100%;
+    background-color: black;
+  }
+  .container .TheSwing .image_container .imgs {
+    height: 440px;
+  }
+  .container .TheSwing h2 {
+    color: #ffffff;
+    font-size: larger;
+    margin-top: 130px;
+    margin-left: 40px;
+  }
+  .container .TheSwing h4 {
+    color: #7d7d7d;
+    font-size: 10px;
+    margin-top: 150px;
+    margin-left: 40px;
+  }
+  header {
+    min-height: 10vh;
+    background-color: primecolor;
+    border-bottom: 1px solid #ccc;
+    font-size: smaller;
+  }
+  header .Start_slideshow {
+    padding-top: 4px;
+    margin-left: 30%;
+    font-weight: lighter;
+    font-size: 20px;
+  }
+  header .galleria {
+    padding-top: 4px;
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: 30px;
+  }
+}
+@media screen and (min-width: 900px) {
+  .container {
+    margin: 100px;
+    max-height: -moz-fit-content;
+    max-height: fit-content;
+    display: grid;
+    grid-template-columns: repeat(4, 300px);
+    grid-template-rows: repeat(4, 400px);
+    grid-column-gap: 3%;
+    grid-row-gap: 13%;
+  }
+  .container img {
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .starry_night {
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .starry_night .image_container {
+    width: 100%;
+    height: 100%;
+  }
+  .container .starry_night .image_container img {
+    width: 310px;
+    height: 250PX;
+    margin-top: 30px;
+    margin-left: 2px;
+  }
+  .container .starry_night h2 {
+    color: white;
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 3%;
+  }
+  .container .starry_night h4 {
+    color: rgba(255, 255, 255, 0.585);
+    position: absolute;
+    margin-top: 14%;
+    margin-left: 3%;
+  }
+  .container .GirlwithaPearlEarring {
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .GirlwithaPearlEarring .image_container {
+    width: 100%;
+    height: 100%;
+  }
+  .container .GirlwithaPearlEarring .image_container img {
+    width: 310px;
+    height: 400PX;
+    margin-top: 30px;
+    margin-left: 2px;
+  }
+  .container .GirlwithaPearlEarring h2 {
+    color: white;
+    position: absolute;
+    margin-top: 21%;
+    margin-left: 3%;
+  }
+  .container .GirlwithaPearlEarring h4 {
+    color: rgba(255, 255, 255, 0.585);
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 3%;
+  }
+  .container .Guernica {
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .Guernica .image_container {
+    width: 100%;
+    height: 100%;
+  }
+  .container .Guernica .image_container img {
+    width: 310px;
+    height: 285PX;
+    margin-top: 30px;
+    margin-left: 2px;
+  }
+  .container .Guernica h2 {
+    color: white;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 3%;
+  }
+  .container .Guernica h4 {
+    color: rgba(255, 255, 255, 0.585);
+    position: absolute;
+    margin-top: 17%;
+    margin-left: 3%;
+    color: #7d7d7d;
+  }
+  .container .PenitentMagdalene {
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .PenitentMagdalene .image_container {
+    width: 100%;
+    height: 100%;
+  }
+  .container .PenitentMagdalene .image_container img {
+    width: 310px;
+    height: 250PX;
+    margin-top: 30px;
+    margin-left: 2px;
+  }
+  .container .PenitentMagdalene h2 {
+    color: white;
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 3%;
+  }
+  .container .PenitentMagdalene h4 {
+    color: rgba(255, 255, 255, 0.585);
+    position: absolute;
+    margin-top: 16%;
+    margin-left: 3%;
+    color: #7d7d7d;
+  }
+  .container .TheStormontheSeaofGalilee {
+    margin-top: -320px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .TheStormontheSeaofGalilee .image_container {
+    width: 100%;
+    height: 100%;
+  }
+  .container .TheStormontheSeaofGalilee .image_container img {
+    width: 310px;
+    height: 340PX;
+    margin-top: 30px;
+    margin-left: 2px;
+  }
+  .container .TheStormontheSeaofGalilee h2 {
+    color: white;
+    position: absolute;
+    margin-top: 18%;
+    margin-left: 2%;
+  }
+  .container .TheStormontheSeaofGalilee h4 {
+    color: rgba(255, 255, 255, 0.585);
+    position: absolute;
+    margin-top: 22%;
+    margin-left: 2%;
+    color: rgba(255, 255, 255, 0.9411764706);
+  }
+  .container .TheGreatWaveoffKanagawa {
+    margin-top: -170px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .TheGreatWaveoffKanagawa .image_container {
+    width: 100%;
+    height: 100%;
+  }
+  .container .TheGreatWaveoffKanagawa .image_container img {
+    width: 310px;
+    height: 280PX;
+    margin-top: 30px;
+    margin-left: 2px;
+  }
+  .container .TheGreatWaveoffKanagawa h2 {
+    color: white;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 2%;
+    color: rgba(22, 20, 20, 0.982);
+  }
+  .container .TheGreatWaveoffKanagawa h4 {
+    color: rgba(255, 255, 255, 0.585);
+    position: absolute;
+    margin-top: 19%;
+    margin-left: 2%;
+    color: rgba(22, 21, 21, 0.9411764706);
+  }
+  .container .VanGoghSelf-portrait {
+    margin-top: -280px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .VanGoghSelf-portrait .image_container {
+    width: 100%;
+    height: 100%;
+  }
+  .container .VanGoghSelf-portrait .image_container img {
+    width: 310px;
+    height: 500PX;
+    margin-top: 30px;
+    margin-left: 2px;
+  }
+  .container .VanGoghSelf-portrait h2 {
+    color: white;
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 2%;
+    color: rgba(22, 20, 20, 0.982);
+  }
+  .container .VanGoghSelf-portrait h4 {
+    color: rgba(255, 255, 255, 0.585);
+    position: absolute;
+    margin-top: 27%;
+    margin-left: 2%;
+    color: #7d7d7d;
+  }
+  .container .TheSleepingGypsy {
+    margin-top: -310px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .TheSleepingGypsy .image_container {
+    width: 100%;
+    height: 100%;
+  }
+  .container .TheSleepingGypsy .image_container img {
+    width: 310px;
+    height: 250PX;
+    margin-top: 30px;
+    margin-left: 2px;
+  }
+  .container .TheSleepingGypsy h2 {
+    color: white;
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 2%;
+    color: white;
+  }
+  .container .TheSleepingGypsy h4 {
+    color: rgba(255, 255, 255, 0.585);
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 2%;
+    color: #7d7d7d;
+  }
+  .container .LadywithanErmine {
+    margin-top: -540px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .LadywithanErmine .image_container {
+    width: 100%;
+    height: 100%;
+  }
+  .container .LadywithanErmine .image_container img {
+    width: 310px;
+    height: 420PX;
+    margin-top: 30px;
+    margin-left: 2px;
+  }
+  .container .LadywithanErmine h2 {
+    color: white;
+    position: absolute;
+    margin-top: 23%;
+    margin-left: 2%;
+    color: white;
+  }
+  .container .LadywithanErmine h4 {
+    color: rgba(255, 255, 255, 0.585);
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 2%;
+    color: #7d7d7d;
+  }
+  .container .TheNightCafé {
+    margin-top: -450px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .TheNightCafé .image_container {
+    width: 100%;
+    height: 100%;
+  }
+  .container .TheNightCafé .image_container img {
+    width: 310px;
+    height: 260PX;
+    margin-top: 30px;
+    margin-left: 2px;
+  }
+  .container .TheNightCafé h2 {
+    color: white;
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 2%;
+    color: white;
+  }
+  .container .TheNightCafé h4 {
+    color: rgba(255, 255, 255, 0.585);
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 2%;
+    color: #7d7d7d;
+  }
+  .container .TheBasketofApples {
+    margin-top: -615px;
+    width: 330px;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .TheBasketofApples .image_container {
+    width: 100%;
+    height: 100%;
+  }
+  .container .TheBasketofApples .image_container img {
+    width: 310px;
+    height: 420PX;
+    margin-top: 30px;
+    margin-left: 2px;
+  }
+  .container .TheBasketofApples h2 {
+    color: white;
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 2%;
+    color: white;
+  }
+  .container .TheBasketofApples h4 {
+    color: rgba(255, 255, 255, 0.585);
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 2%;
+    color: #7d7d7d;
+  }
+  .container .TheBoyintheRedVest {
+    margin-top: -680px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .TheBoyintheRedVest .image_container {
+    width: 100%;
+    height: 100%;
+  }
+  .container .TheBoyintheRedVest .image_container img {
+    width: 310px;
+    height: 260PX;
+    margin-top: 30px;
+    margin-left: 2px;
+  }
+  .container .TheBoyintheRedVest h2 {
+    color: white;
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 2%;
+    color: white;
+  }
+  .container .TheBoyintheRedVest h4 {
+    color: rgba(255, 255, 255, 0.585);
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 2%;
+    color: #7d7d7d;
+  }
+  .container .ArnolfiniPortrait {
+    margin-top: -752px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .ArnolfiniPortrait .image_container {
+    width: 100%;
+    height: 100%;
+  }
+  .container .ArnolfiniPortrait .image_container img {
+    width: 310px;
+    height: 330PX;
+    margin-top: 30px;
+    margin-left: 2px;
+  }
+  .container .ArnolfiniPortrait h2 {
+    color: white;
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 2%;
+    color: white;
+  }
+  .container .ArnolfiniPortrait h4 {
+    color: rgba(255, 255, 255, 0.585);
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 2%;
+    color: #7d7d7d;
+  }
+  .container .MonaLisa {
+    margin-top: -340px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .MonaLisa .image_container {
+    width: 100%;
+    height: 100%;
+  }
+  .container .MonaLisa .image_container img {
+    width: 310px;
+    height: 525PX;
+    margin-top: 30px;
+    margin-left: 2px;
+  }
+  .container .MonaLisa h2 {
+    color: white;
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 2%;
+    color: white;
+  }
+  .container .MonaLisa h4 {
+    color: rgba(255, 255, 255, 0.585);
+    position: absolute;
+    margin-top: 32%;
+    margin-left: 2%;
+    color: #7d7d7d;
+  }
+  .container .TheSwing {
+    position: absolute;
+    margin-left: 1020px;
+    margin-top: 1060px;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .container .TheSwing .image_container {
+    width: 100%;
+    height: 100%;
+  }
+  .container .TheSwing .image_container img {
+    width: 310px;
+    height: 340PX;
+    margin-top: 30px;
+    margin-left: 2px;
+  }
+  .container .TheSwing h2 {
+    color: white;
+    position: absolute;
+    margin-top: 80%;
+    margin-left: 2%;
+    color: white;
+  }
+  .container .TheSwing h4 {
+    color: rgba(255, 255, 255, 0.585);
+    position: absolute;
+    margin-top: 90%;
+    margin-left: 2%;
+    color: #7d7d7d;
+  }
+  header {
+    min-height: 10vh;
+    background-color: primecolor;
+    border-bottom: 1px solid #ccc;
+    font-size: smaller;
+  }
+  header .Start_slideshow {
+    margin-top: 67px;
+    margin-left: 80%;
+    font-weight: lighter;
+    font-size: 20px;
+  }
+  header .galleria {
+    padding-top: 4px;
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: 30px;
+  }
+}/*# sourceMappingURL=style.css.map */
